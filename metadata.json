@@ -1,0 +1,6 @@
+{
+  "name": "PixelGrid - Modern E-Commerce Platform",
+  "description": "PixelGrid full-stack e-commerce platform with smart shopping, Bangladesh payment integrations (bKash, Nagad, Rocket, COD), customer dashboard, order tracking, and comprehensive admin control panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
